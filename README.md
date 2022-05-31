@@ -4,10 +4,15 @@
 # Getting Started
 ## Installation
 ```
-conda create -n Multi-Agent-ChargingStation python=3.7
+1) conda create -n Multi-Agent-ChargingStation python=3.7
 
-conda activate Multi-Agent-ChargingStation
+2) conda activate Multi-Agent-ChargingStation
 
-<!-- pip install -r requirements.txt -->
-pip install -e .
+3) pip install -e .
+
+4) python main.py
 ```
+
+# Output
+https://user-images.githubusercontent.com/70676394/171130551-299b211d-a8cd-4229-8593-42aa0c9006be.mp4
+
